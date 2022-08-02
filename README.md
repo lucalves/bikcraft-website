@@ -1,8 +1,8 @@
 # Bikcraft
 
-Desenvolvimento do projeto do curso ``Web Design Completo`` da plataforma de cursos [Origamid](https://www.origamid.com/).
+![Concluded Badge](https://img.shields.io/badge/concluded%20at-19%2F03%2F2020-red)
 
-> Concluído em 19/03/2020.
+Desenvolvimento do projeto do curso ``Web Design Completo`` da plataforma de cursos [Origamid](https://www.origamid.com/).
 
 ## Screenshots
 
