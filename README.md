@@ -7,3 +7,7 @@ Desenvolvimento do projeto do curso ``Web Design Completo`` da plataforma de cur
 ## Screenshots
 
 ![Bikcraft](./img/background.png)
+
+## License
+
+MIT
