@@ -1,4 +1,4 @@
-# Bikcraft
+# bikcraft
 
 ![Concluded Badge](https://img.shields.io/badge/concluded%20at-19%2F03%2F2020-red)
 
